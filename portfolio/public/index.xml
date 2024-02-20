@@ -6,6 +6,14 @@
     <description>Recent content on Grant&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 19 Feb 2024 23:43:59 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 19 Feb 2024 23:43:59 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>My name is Grant Wells, and I am from Princeton, NJ. I am currently a Sophomore at the University of Pennsylvania studying Computer Science in the School of Engineering and Applied Science. Outside of the classroom, I love to watch football, go the gym, and DJ</description>
+    </item>
   </channel>
 </rss>
