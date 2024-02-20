@@ -6,8 +6,15 @@
     <description>Recent content on Grant&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Feb 2024 23:43:59 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 23:56:50 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Résumé</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 19 Feb 2024 23:56:50 -0500</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>Grant Alexander Wells gawells@seas.upenn.edu || 77 Colfax Road, Skillman NJ || (609)-256-2488&#xA;Education University of Pennsylvania, 2022-2026 Major: Computer Science Princeton Day School, 2010-2022 Experience Marathon Asset Management, Summer 2023 Healthcare Investing Intern Lloyd Group, Summer 2022 Automation &amp;amp; Development Intern PICSO Lab University of Pittsburgh, Summer 2021 Research Intern University of Columbia, Spring 2021 Research Intern Activities Wharton Undergraduate Data Analytics Club Education Committee Skills Java, Python, Probability</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
