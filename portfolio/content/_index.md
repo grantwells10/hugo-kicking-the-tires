@@ -2,6 +2,6 @@
 
 On this site, you'll find
 
-* My biography
-* My projects
-* My résumé
+* [A short blurb about me](/about)
+* [My résumé](/resume)
+* [My contact information](/contact)

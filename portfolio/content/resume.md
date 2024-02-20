@@ -6,8 +6,6 @@ draft = false
 
 ## Grant Alexander Wells
 
-<gawells@seas.upenn.edu> || 77 Colfax Road, Skillman NJ || (609)-256-2488
-
 ### Education
 
 #### University of Pennsylvania, 2022-2026
